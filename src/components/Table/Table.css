@@ -1,0 +1,4 @@
+.ag-theme-alpine .ag-ltr .ag-cell {
+  border-right-width: 1px;
+  display: flex;
+}

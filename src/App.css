@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.currentdate {
+  margin: 20px 0px;
+}
+.chart {
+  margin: 0px 10px;
+}
+.date {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  height: 15px;
+  margin: 20px;
+}
